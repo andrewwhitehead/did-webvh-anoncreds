@@ -2,7 +2,6 @@
   "@context": "https://w3id.org/security/data-integrity/v2",
   "issuerId": "did:webvh:QmaJp6pmb6RUk4oaDyWQcjeqYbvxsc3kvmHWPpz7B5JwDU:domain.example",
   "credDefId": "did:webvh:QmaJp6pmb6RUk4oaDyWQcjeqYbvxsc3kvmHWPpz7B5JwDU:domain.example/anoncreds/creddef/EGXgTzVpRpfhkMqbHfJpUDRtgBWaHh1Z1JbhDKb5tFHB.json",
-  "statusListId": "did:webvh:QmaJp6pmb6RUk4oaDyWQcjeqYbvxsc3kvmHWPpz7B5JwDU:domain.example/anoncreds/creddef/EGXgTzVpRpfhkMqbHfJpUDRtgBWaHh1Z1JbhDKb5tFHB.json",
   "type": "CL_ACCUM",
   "value": {
     "maxCredNum": 10,
