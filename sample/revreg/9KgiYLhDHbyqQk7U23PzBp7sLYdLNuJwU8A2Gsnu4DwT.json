@@ -1,0 +1,23 @@
+{
+  "@context": "https://w3id.org/security/data-integrity/v2",
+  "issuerId": "did:webvh:QmaJp6pmb6RUk4oaDyWQcjeqYbvxsc3kvmHWPpz7B5JwDU:domain.example",
+  "credDefId": "did:webvh:QmaJp6pmb6RUk4oaDyWQcjeqYbvxsc3kvmHWPpz7B5JwDU:domain.example/anoncreds/creddef/EGXgTzVpRpfhkMqbHfJpUDRtgBWaHh1Z1JbhDKb5tFHB.json",
+  "statusListId": "did:webvh:QmaJp6pmb6RUk4oaDyWQcjeqYbvxsc3kvmHWPpz7B5JwDU:domain.example/anoncreds/creddef/EGXgTzVpRpfhkMqbHfJpUDRtgBWaHh1Z1JbhDKb5tFHB.json",
+  "type": "CL_ACCUM",
+  "value": {
+    "maxCredNum": 10,
+    "publicKeys": {
+      "accumKey": "0BAE48198D45479A975228AA126D7A07BE11E42F469DBB9BC694BF29B2D26303"
+    },
+    "tailsLocation": "did:webvh:QmaJp6pmb6RUk4oaDyWQcjeqYbvxsc3kvmHWPpz7B5JwDU:domain.example/anoncreds/tails/6JV83yXWKR8Fu9VTcUnxXUYDgNj6eRRES595uPzMq1f6",
+    "tailsHash": "6JV83yXWKR8Fu9VTcUnxXUYDgNj6eRRES595uPzMq1f6"
+  },
+  "proof": {
+    "type": "DataIntegrityProof",
+    "cryptosuite": "eddsa-jcs-2022",
+    "verificationMethod": "did:webvh:QmaJp6pmb6RUk4oaDyWQcjeqYbvxsc3kvmHWPpz7B5JwDU:domain.example#key-1",
+    "created": "2024-03-10T18:29:08Z",
+    "proofPurpose": "assertionMethod",
+    "proofValue": "z38ereR1yomGS7S1sSvw3C5nWtn4MmmENM4jzsvbugcE3etSscreEg96HTq4C9CzRJ6BvrscUAeQsRsBKVUfDmJGY"
+  }
+}

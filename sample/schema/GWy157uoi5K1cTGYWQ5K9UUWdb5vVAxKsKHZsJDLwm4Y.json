@@ -1,0 +1,15 @@
+{
+  "@context": "https://w3id.org/security/data-integrity/v2",
+  "issuerId": "did:webvh:QmaJp6pmb6RUk4oaDyWQcjeqYbvxsc3kvmHWPpz7B5JwDU:domain.example",
+  "name": "verified-person",
+  "version": "1.0.0",
+  "attrNames": ["id", "name"],
+  "proof": {
+    "type": "DataIntegrityProof",
+    "cryptosuite": "eddsa-jcs-2022",
+    "verificationMethod": "did:webvh:QmaJp6pmb6RUk4oaDyWQcjeqYbvxsc3kvmHWPpz7B5JwDU:domain.example#key-1",
+    "created": "2024-03-10T18:29:08Z",
+    "proofPurpose": "assertionMethod",
+    "proofValue": "z38ereR1yomGS7S1sSvw3C5nWtn4MmmENM4jzsvbugcE3etSscreEg96HTq4C9CzRJ6BvrscUAeQsRsBKVUfDmJGY"
+  }
+}

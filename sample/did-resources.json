@@ -1,0 +1,69 @@
+{
+  "linkedResourceMetadata": [
+    {
+      "resourceURI": "did:webvh:QmaJp6pmb6RUk4oaDyWQcjeqYbvxsc3kvmHWPpz7B5JwDU:domain.example/anoncreds/schema/GWy157uoi5K1cTGYWQ5K9UUWdb5vVAxKsKHZsJDLwm4Y.json",
+      "resourceCollectionId": "#resources",
+      "resourceId": "GWy157uoi5K1cTGYWQ5K9UUWdb5vVAxKsKHZsJDLwm4Y",
+      "resourceName": "verified-person",
+      "resourceType": "anonCredsSchema",
+      "resourceVersion": "1.0.0",
+      "mediaType": "application/json",
+      "created": "2023-01-25T12:08:39.63Z",
+      "checksum": "e1dbc03b50bdb995961dc8843df6539b79d03bf49787ed6462189ee97d27eaf3",
+      "previousVersionId": null,
+      "nextVersionId": null
+    },
+    {
+      "resourceURI": "did:webvh:QmaJp6pmb6RUk4oaDyWQcjeqYbvxsc3kvmHWPpz7B5JwDU:domain.example/anoncreds/creddef/EGXgTzVpRpfhkMqbHfJpUDRtgBWaHh1Z1JbhDKb5tFHB.json",
+      "resourceCollectionId": "#resources",
+      "resourceId": "EGXgTzVpRpfhkMqbHfJpUDRtgBWaHh1Z1JbhDKb5tFHB",
+      "resourceName": "verified-person",
+      "resourceType": "anonCredsCredDef",
+      "resourceVersion": "1.0",
+      "mediaType": "application/json",
+      "created": "2023-01-25T12:08:39.63Z",
+      "checksum": "e1dbc03b50bdb995961dc8843df6539b79d03bf49787ed6462189ee97d27eaf3",
+      "previousVersionId": null,
+      "nextVersionId": null
+    },
+    {
+      "resourceURI": "did:webvh:QmaJp6pmb6RUk4oaDyWQcjeqYbvxsc3kvmHWPpz7B5JwDU:domain.example/anoncreds/revreg/9KgiYLhDHbyqQk7U23PzBp7sLYdLNuJwU8A2Gsnu4DwT.json",
+      "resourceCollectionId": "#resources",
+      "resourceId": "9KgiYLhDHbyqQk7U23PzBp7sLYdLNuJwU8A2Gsnu4DwT",
+      "resourceName": "verified-person",
+      "resourceType": "anonCredsRevocRegDef",
+      "resourceVersion": "",
+      "mediaType": "application/json",
+      "created": "2023-01-25T12:08:39.63Z",
+      "checksum": "e1dbc03b50bdb995961dc8843df6539b79d03bf49787ed6462189ee97d27eaf3",
+      "previousVersionId": null,
+      "nextVersionId": null
+    },
+    {
+      "resourceURI": "did:webvh:QmaJp6pmb6RUk4oaDyWQcjeqYbvxsc3kvmHWPpz7B5JwDU:domain.example/anoncreds/revreg/9KgiYLhDHbyqQk7U23PzBp7sLYdLNuJwU8A2Gsnu4DwT/91259821512.json",
+      "resourceCollectionId": "#resources",
+      "resourceId": "9KgiYLhDHbyqQk7U23PzBp7sLYdLNuJwU8A2Gsnu4DwT",
+      "resourceName": "verified-person",
+      "resourceType": "anonCredsStatusList",
+      "resourceVersion": "91259821512",
+      "mediaType": "application/json",
+      "created": "2023-01-25T12:08:39.63Z",
+      "checksum": "e1dbc03b50bdb995961dc8843df6539b79d03bf49787ed6462189ee97d27eaf3",
+      "previousVersionId": null,
+      "nextVersionId": null
+    },
+    {
+      "resourceURI": "did:webvh:QmaJp6pmb6RUk4oaDyWQcjeqYbvxsc3kvmHWPpz7B5JwDU:domain.example/anoncreds/tails/6JV83yXWKR8Fu9VTcUnxXUYDgNj6eRRES595uPzMq1f6",
+      "resourceCollectionId": "#resources",
+      "resourceId": "9KgiYLhDHbyqQk7U23PzBp7sLYdLNuJwU8A2Gsnu4DwT",
+      "resourceName": "verified-person",
+      "resourceType": "anonCredsTails",
+      "resourceVersion": "",
+      "mediaType": "application/octet-stream",
+      "created": "2023-01-25T12:08:39.63Z",
+      "checksum": "e1dbc03b50bdb995961dc8843df6539b79d03bf49787ed6462189ee97d27eaf3",
+      "previousVersionId": null,
+      "nextVersionId": null
+    }
+  ]
+}
